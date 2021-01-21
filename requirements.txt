@@ -1,0 +1,4 @@
+CPython==3.7.3
+IPython==7.19.0
+
+ipywidgets==7.5.1
